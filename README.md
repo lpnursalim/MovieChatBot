@@ -1,6 +1,6 @@
 # TermProject
  
-Names: Arya Kumar, Anna Kerber, Livia Nursalim
+Names: Livia Nursalim, Arya Kumar, Anna Kerber
 
 How to compile and run: We recommend downloading/using an IDE
 - Be sure to install a Java run extension compatible with your IDE
@@ -24,16 +24,15 @@ Export "imdb_ijs" database (or other version of the dataset, if available) in yo
 
 Contribution log: 
 Arya created the first three complex queries ideated the application flow, 
-- Created the java file to connect the MySQL Database with ConnectorJ to - formatted the queries for user input
 - Created video presentation
 - Created the report
 
-Anna created 5 additional complex subqueries 
+Anna created 5 additional complex subqueries, 
 - Added and formatted the queries for user input in the java file connected to the MySQL Database
 - Added Queries to the UI
 - Created the report
 
-Livia created the Swing GUI application in Java
+Livia created and implemented the Swing GUI application in Java,
 - Created the video presentation
 - Created the report
 - Wrote README file and instructions
